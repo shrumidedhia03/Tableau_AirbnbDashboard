@@ -4,3 +4,7 @@ Leveraged Tableau to craft insightful visualizations from the Kaggle Airbnb list
 
 
 Check out my [Tableau Dashboard](https://public.tableau.com/app/profile/shrumi.dedhia/viz/AirbnbFullProject_17069851759050/Dashboard1?publish=yes) 
+
+![Dashboard Preview](dashboard.png)
+
+
